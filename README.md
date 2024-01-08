@@ -1,4 +1,6 @@
 Netflix Full Clone
+
+
 Welcome to the Netflix Full Clone repository! This project is a complete clone of the Netflix website, developed using React, Firebase, Stripe, Redux, and other cutting-edge technologies. Below, you'll find instructions on how to set up and run the project, explore its features, and contribute to its development.
 
 Getting Started
